@@ -335,7 +335,7 @@ const addCommitment = () => {
 
 
 const [contentData, setContentData] = useState<ContentData>({
-    lessonDate: "July 3, 2016",
+    lessonDate: "May 3, 2026",
     lessonTitle: "OBEDIENCE",
 
     memoryVerse:
@@ -815,7 +815,7 @@ const [contentData, setContentData] = useState<ContentData>({
                             Sunday School Lesson
                         </h1>
                         <p className="text-xl opacity-80">
-                            LOVING THE LORD YOUR GOD
+                            OBEDIENCE
                         </p>
                     </div>
                     <div className="grid md:grid-cols-2 gap-6">
